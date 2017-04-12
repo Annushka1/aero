@@ -1,0 +1,149 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-Rectangle-14 {
+    width: 160px;
+    height: 160px;
+    background-position: -5px -5px;
+}
+
+.sprite-Rectangle-15 {
+    width: 160px;
+    height: 160px;
+    background-position: -175px -5px;
+}
+
+.sprite-binoculars {
+    width: 72px;
+    height: 34px;
+    background-position: -345px -5px;
+}
+
+.sprite-contact-info {
+    width: 62px;
+    height: 62px;
+    background-position: -345px -49px;
+}
+
+.sprite-contact-mail {
+    width: 23px;
+    height: 17px;
+    background-position: -427px -5px;
+}
+
+.sprite-contact-ofice {
+    width: 35px;
+    height: 50px;
+    background-position: -427px -32px;
+}
+
+.sprite-fb {
+    width: 22px;
+    height: 23px;
+    background-position: -417px -92px;
+}
+
+.sprite-finger {
+    width: 56px;
+    height: 58px;
+    background-position: -345px -125px;
+}
+
+.sprite-gallery-ar-black {
+    width: 20px;
+    height: 33px;
+    background-position: -449px -92px;
+}
+
+.sprite-gallery-ar-black---_____ {
+    width: 20px;
+    height: 33px;
+    background-position: -411px -135px;
+}
+
+.sprite-gallery-ar-gray {
+    width: 20px;
+    height: 33px;
+    background-position: -441px -135px;
+}
+
+.sprite-gallery-ar-gray---_____ {
+    width: 20px;
+    height: 33px;
+    background-position: -5px -178px;
+}
+
+.sprite-glasses {
+    width: 75px;
+    height: 28px;
+    background-position: -35px -193px;
+}
+
+.sprite-ins {
+    width: 22px;
+    height: 23px;
+    background-position: -120px -178px;
+}
+
+.sprite-name {
+    width: 15px;
+    height: 15px;
+    background-position: -460px -5px;
+}
+
+.sprite-phone {
+    width: 19px;
+    height: 19px;
+    background-position: -152px -178px;
+}
+
+.sprite-photo {
+    width: 65px;
+    height: 50px;
+    background-position: -181px -178px;
+}
+
+.sprite-pilot1 {
+    width: 160px;
+    height: 160px;
+    background-position: -256px -193px;
+}
+
+.sprite-pilot1-1 {
+    width: 160px;
+    height: 160px;
+    background-position: -485px -5px;
+}
+
+.sprite-private {
+    width: 40px;
+    height: 34px;
+    background-position: -471px -175px;
+}
+
+.sprite-team2 {
+    width: 160px;
+    height: 160px;
+    background-position: -426px -219px;
+}
+
+.sprite-team3 {
+    width: 160px;
+    height: 160px;
+    background-position: -5px -389px;
+}
+
+.sprite-team4 {
+    width: 160px;
+    height: 160px;
+    background-position: -175px -389px;
+}
+
+.sprite-vk {
+    width: 22px;
+    height: 23px;
+    background-position: -521px -175px;
+}
