@@ -1,5 +1,10 @@
 $(document).ready(function(){
 
+   $('.private-subtitle').on('click', function(){
+      console.log('hello');
+      $('.private-text').slideToggle();
+    });
+
   $(".owl-carousel").owlCarousel({
     loop: true,
     nav: true,
@@ -20,6 +25,11 @@ $(document).ready(function(){
     });
     return false;
 
+
+    $('.private-subtitle').on('click', function(){
+      console.log('hello');
+      $('.private-text').slideToggle();
+    })
 });
 
 
