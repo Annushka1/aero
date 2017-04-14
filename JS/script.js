@@ -5,6 +5,10 @@ $(document).ready(function(){
       $('.private-text').slideToggle();
     });
 
+
+   $('.selector').spincrement(0, 100);
+
+
   $(".owl-carousel").owlCarousel({
     loop: true,
     nav: true,
@@ -24,12 +28,6 @@ $(document).ready(function(){
     e.preventDefault();
     });
     return false;
-
-
-    $('.private-subtitle').on('click', function(){
-      console.log('hello');
-      $('.private-text').slideToggle();
-    })
 });
 
 
