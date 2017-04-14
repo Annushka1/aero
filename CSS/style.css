@@ -894,3 +894,21 @@ button::-moz-focus-inner {
 .ins-icon {
   background-position: -37px -5px;
 }
+
+    #updown {
+      height: 9px;
+      width: 14px;
+      color: green;
+      position: fixed;
+      top: 10px;
+      left: 10px;
+      cursor: pointer;
+    }
+
+    #updown.up::before {
+      content: '▲';
+    }
+
+    #updown.down::before {
+      content: '▼';
+    }
